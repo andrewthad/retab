@@ -1,0 +1,10 @@
+function bar(x):
+	keepGoing = true
+	while keepGoing:
+		result = promptUser()
+		keepGoing = interpretResult(result)
+interpretResult(r):
+	if(r ~ "success"):
+		return true
+	else:
+		return false

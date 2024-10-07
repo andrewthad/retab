@@ -1,0 +1,9 @@
+foo():
+«
+print("Hello")
+print("World")
+»
+bar():
+«
+print("Bar")
+»

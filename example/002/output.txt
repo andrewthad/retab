@@ -1,0 +1,8 @@
+function bar(x)
+«
+for i from 0 to 100
+«
+print("The number is: ")
+print(i)
+»
+»
